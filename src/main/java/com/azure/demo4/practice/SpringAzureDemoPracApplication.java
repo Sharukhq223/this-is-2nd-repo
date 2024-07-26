@@ -11,7 +11,7 @@ public class SpringAzureDemoPracApplication {
 
 	@GetMapping("/search")
 	public String search(){
-		return "this is main class $ deployed to azure successfully!!";
+		return "this is main class & deployed to azure successfully!!";
 
 	}
 

@@ -28,7 +28,7 @@ public class LeadController {
 
 
 
-    @GetMapping("/leads/message")
+    @GetMapping("/message")
     public String message(){
 
         return "hello this is Rest Controller & this is deployed to azure successfully!!";
