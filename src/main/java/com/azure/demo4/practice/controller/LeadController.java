@@ -9,13 +9,13 @@ import org.springframework.web.bind.annotation.RestController;
 public class LeadController {
 
 
-//    echo "# this-is-2nd-deployment" >> README.md
-//    git init
-//    git add README.md
-//    git commit -m "first commit"
-//    git branch -M main
-//    git remote add origin https://github.com/Sharukhq223/this-is-2nd-deployment.git
-//    git push -u origin main
+//    echo "# deployed-our-microservice-on-git" >> README.md
+//git init
+//git add README.md
+//git commit -m "first commit"
+//git branch -M main
+//git remote add origin https://github.com/Sharukhq223/deployed-our-microservice-on-git.git
+//git push -u origin main
 
 
 
